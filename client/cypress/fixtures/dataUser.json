@@ -1,0 +1,19 @@
+{
+    "LoginUllser": {
+        "username": "admin@test.com",
+        "password": "test123"
+    },
+    "CreateNullewHero":{
+        "username": "admin@test.com",
+        "password": "test123",
+        "TextWo": "Eslei",
+        "priceNu": "20000",
+        "fansNu": "50000",
+        "savesNu": "0"
+    },
+    "SavesNullFans":{
+        "username": "admin@test.com",
+        "password": "test123"
+
+    }
+}
